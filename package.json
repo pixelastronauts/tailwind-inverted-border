@@ -1,0 +1,23 @@
+{
+    "name": "tailwindcss-inverted-border",
+    "version": "1.0.0",
+    "description": "A Tailwind CSS plugin that adds inverted border radius utilities",
+    "main": "index.js",
+    "keywords": [
+        "tailwindcss",
+        "tailwind",
+        "plugin",
+        "border",
+        "radius",
+        "inverted"
+    ],
+    "author": "Pixel Astronauts",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pixel-astronauts/tailwind-inverted-border"
+    },
+    "peerDependencies": {
+        "tailwindcss": "^3.0.0"
+    }
+}
