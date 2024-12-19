@@ -71,12 +71,15 @@ Use `inverted-border-{color}` to set the color of the inverted border. This uses
 	Styled element with inverted border
 </div>
 
+<!-- Styling as the header image -->
 <div class="aspect-square rounded-xl relative overflow-hidden bg-white">
 	<div class="absolute left-0 bottom-0">
 		<div class="inverted-border-xl inverted-border-gray-900 -rotate-90 flex-none -mb-px"></div>
 		<div class="flex items-end">
 			<div class="bg-gray-900 p-2 rounded-tr-xl text-xs flex gap-2">
-				<div class="rounded-md bg-white p-2 text-gray-900">Web Development</div>
+				<div class="rounded-md bg-white p-2 text-gray-900">
+                    Web Development
+                </div>
 			</div>
 			<div class="inverted-border-xl inverted-border-gray-900 -rotate-90 flex-none -mb-px"></div>
 		</div>
