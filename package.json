@@ -1,6 +1,6 @@
 {
 	"name": "tailwind-inverted-border",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Tailwind CSS plugin that adds inverted border radius utilities",
 	"main": "index.js",
 	"types": "index.d.ts",
