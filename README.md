@@ -1,6 +1,6 @@
 # Tailwind CSS Inverted Border Plugin
 
-![Tailwind CSS Inverted Border Plugin](https://raw.githubusercontent.com/pixelastronauts/tailwindcss-inverted-border/main/preview.png)
+![Tailwind CSS Inverted Border Plugin](https://raw.githubusercontent.com/pixelastronauts/tailwind-inverted-border/refs/heads/master/preview.png)
 
 A Tailwind CSS plugin that adds utilities for creating inverted borders - circular cutouts in the corners of elements that create a unique visual effect.
 
